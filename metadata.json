@@ -1,0 +1,8 @@
+{
+  "name": "Bottom Panel",
+  "description": "Moves the panel to bottom",
+  "shell-version": ["41"],
+  "url": "risi.io",
+  "uuid": "bottompanel@risi.io",
+  "version": 1
+}
